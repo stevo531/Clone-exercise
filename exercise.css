@@ -16,10 +16,10 @@
     position: absolute;
     margin-left: 350px;
     padding-top: 300px;
-    font-size: 35px;
+    font-size: 45px;
     margin-bottom: 9%;
  /*   background-image: url('backim.jpg');*/
-    background-image: ;
+   
     background-size: -40px; 
     color: white;
     border: 20px;
@@ -35,11 +35,13 @@
 }
 .backimg{
     margin-top: 50px;
+    width: 3200px;
 }
 #maternadiv{
     width: 500px;
     margin-left: 390px;
 }
+
 .maternaonly{
     font-size: x-large;
     font-size: 50px;
@@ -55,29 +57,40 @@
     display: flex;
     gap: 50px;
     margin-left: 220px;
+    /*.circle{
+   border-radius: 50%;
+    background-color: red;
+     width: 100px;
+height: 100px;
+}*/
 
 }
 .forimg1{
     position: relative;
- 
+   color: rgb(102, 96, 96);
     margin-left: 290px;
+    font-size: medium;
     
 }
 .forimg2{
     position: relative;
  margin-top: -35px;
     margin-left: 590px;
-    
+    color: rgb(102, 96, 96);
+    font-size: medium;
 }
 .forimg3{
     position: relative;
  margin-top: -35px;
     margin-left: 850px;
+    color: rgb(102, 96, 96);
+    font-size: medium;
     
 }
 #fokus{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size:xx-large;
+    color: rgb(78, 78, 78);
     padding-left: 550px;
     padding-top: 50px;
     font-size: 40px;
@@ -362,4 +375,76 @@ width: 450px;
     margin-left: 390px;
     margin-top: 150px;
     color: rgb(54, 51, 51);
+}
+#circle{
+    border-radius: 50%;
+    border-color: red;
+    width: 100px;
+    height: 100px;
+}
+.greydiv{
+    position: flex;
+   left: 100px ;
+    margin-top: 100px;
+   margin-left: 2px; 
+   background-color: rgb(218, 213, 213);
+   height: 280px; 
+   padding-top: 1px;
+   padding-bottom: 100px;
+}
+.greypara{
+  
+}
+.par1{
+    margin-top: 150px;
+    margin-left: 290px;
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(58, 56, 56);
+}
+.par2{
+    margin-top: -30px;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(58, 56, 56);
+    margin-left: 150px;
+    
+}
+.imgdiv{
+    margin-left: 350px;
+    width: 250px;
+    height: 70px;
+    color: white;
+    background-color: rgb(37, 37, 37);
+    border-color: rgb(37, 37, 37);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px; 
+}
+.lastblock{
+    margin-left: 150px;
+    background-image: url(cadbf.jpeg);
+    background-size: cover;
+    width: 900px;
+height: 500px;
+
+}
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 0px;
+    margin-top: 90px;
+    width: 50%;
+    height: 600px;
+    padding-top: 60px;
+    background: rgba(255, 255, 255, 0.5);
+    
+    
+}
+.itspara{
+    margin-left: 30px;
+    margin-top: -550px;
+    width: 350px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
