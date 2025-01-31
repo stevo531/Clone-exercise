@@ -1,0 +1,30 @@
+.navs{
+    display: flex;
+    margin-left: 600px;
+    gap: 15px;
+    margin-top: -80px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.materna{
+    width: 150px;
+    height: 170px;
+    margin-left: 150px;
+
+}
+#para{
+    position: absolute;
+    margin-left: -5px;
+    padding-top: -1500px;
+    font-size: 40px;
+    margin-bottom: 9%;
+ /*   background-image: url('backim.jpg');*/
+    background-image: ;
+    background-size: -40px;
+}
+.ownpara{
+    
+}
+.imgandpara{
+    max-width: 200px;
+}
